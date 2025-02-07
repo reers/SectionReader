@@ -2,9 +2,6 @@ import MachO
 import Foundation
 
 /// Read consecutive data of same type from Mach-O section.
-/// All data in the section must be of the same type and stored consecutively.
-
-/// Read consecutive data of same type from Mach-O section.
 ///
 /// - Important: ⚠️⚠️⚠️ All data in the section must be of the same type and stored consecutively.
 ///              Reading mixed types or non-consecutive data will cause crashes!
