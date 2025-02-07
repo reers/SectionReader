@@ -13,7 +13,7 @@ import Foundation
 /// Example:
 ///   __DATA,__type1_section  // only for Type1
 ///   __DATA,__type2_section  // only for Type2
-
+///
 /// For different types in same section, use tuple to wrap them:
 ///
 /// Example:
